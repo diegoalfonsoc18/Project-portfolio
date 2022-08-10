@@ -1102,6 +1102,7 @@ footer p {
   .sm\:pr-0 {
     padding-right: 0px;
   }
+
   .container-projects {
     grid-template-columns: 320px 320px;
     grid-template-rows: 380px 380px;
