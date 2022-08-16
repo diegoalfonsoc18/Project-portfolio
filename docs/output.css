@@ -943,7 +943,9 @@ video {
 .focus\:ring-offset-gray-800:focus {
   --tw-ring-offset-color: #1f2937;
 }
-
+body {
+  overflow-x: hidden;
+}
 .navbar {
   background-color: #ff0000;
 }
