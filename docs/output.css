@@ -1065,6 +1065,9 @@ footer p {
   color: #dddddd;
   font-size: small;
 }
+.welcome-Bg {
+  background-image: url(./img/space2.png);
+}
 @media (min-width: 640px) {
   .sm\:static {
     position: static;
